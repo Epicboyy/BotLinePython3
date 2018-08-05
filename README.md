@@ -1,5 +1,5 @@
-# PYTHON3
-SELF BOT PYTHON3.
+
+#SELF BOT PYTHON3.
 ------
 How To Install Self Bot :
 ------
