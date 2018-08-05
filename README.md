@@ -1,7 +1,6 @@
 # PYTHON3
 SELF BOT PYTHON3.
 ------
--
 How To Install Self Bot :
 ------
 - `apt update`
@@ -19,7 +18,6 @@ How To Install Self Bot :
 - `git clone https://github.com/Epicboyy/BotLinePython3`
 - `cd BotLinePython3`
 - `python3 Nadyasb.py`
-
 
 
 Credit By@ Nadya Sutjiadi.
