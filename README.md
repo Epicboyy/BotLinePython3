@@ -22,11 +22,4 @@ How To Install Self Bot :
 
 Credit By@ Nadya Sutjiadi.
 ------
-- `Follow Her Instagram : nadya.tjia`
-- `Add Her ID LINE : nad_nad. (pake titik)`
 
-Thx To :
-------
-- `LINE-TCR TEAM`
-- `HELLO-WORLD`
-- `Nadya Sutjiadi`
